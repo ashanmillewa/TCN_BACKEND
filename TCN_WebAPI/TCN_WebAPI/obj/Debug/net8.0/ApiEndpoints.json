@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "TCN_WebAPI.Controllers.AudioFilesController",
+    "Method": "GetByAgent",
+    "RelativePath": "api/v1/AudioFiles/GetByAgent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Search_IDORREC",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TCN_WebAPI.Controllers.AudioFilesController",
+    "Method": "GetByDate",
+    "RelativePath": "api/v1/AudioFiles/GetByDate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TCN_WebAPI.Controllers.AudioFilesController",
+    "Method": "GetByPhoneNumber",
+    "RelativePath": "api/v1/AudioFiles/GetByPhoneNumber",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "search_IdPHCAL",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

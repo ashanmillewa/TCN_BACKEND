@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cgNSOA0oRiREzupsCYR54MFLHjg0j1h6SAv1jf+VWJ0=",
+  "Source": "TCN_WebAPI",
+  "BasePath": "_content/TCN_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
